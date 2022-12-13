@@ -1,0 +1,16 @@
+nav {
+  display: flex;
+  align-items: center;
+  background-color: #324376;
+  height: 70px;
+  padding: 10px 30px;
+}
+
+nav > a > img {
+  width: 180px;
+  cursor: pointer;
+}
+
+.logo-link {
+  all: unset;
+}

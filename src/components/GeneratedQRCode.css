@@ -1,0 +1,18 @@
+.wrapper {
+  display: inline-block;
+  font-size: 0;
+  margin-bottom: 0;
+  position: relative;
+}
+
+div > img {
+  width: 10%;
+  background-color: #324376;
+  border-radius: 50%;
+  border: 4px white solid;
+  padding: 1%;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
